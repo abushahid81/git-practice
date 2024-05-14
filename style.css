@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .navbar {
+    border-bottom: 5px solid #3aa832;
+  }
+  .navbar-toggler{
+    margin-left: 330px;
+    margin-top: -50px;
+  
+  }
+  .mto {
+    color: #3aa832;
+    margin-left: 270px;
+  }
+  .header-contant {
+    margin-top: 100px;
+  }
+  .btn {
+    border-radius: 20px;
+  }
+  .btn:hover {
+    background-color: #1ab805;
+    color: black;
+  }
+  .botn {
+    padding-bottom: 80px;
+    padding-right: 100px;
+    text-align: end;
+  }
+  
+  .momo {
+    color: #3aa832;
+    text-align: center;
+  }
+  .mott {
+    margin-left: 10px;
+  }
+  .moto {
+    text-align: center;
+  }
+  /* mobile-demo */
+  
+  .img-1 {
+    position: relative;
+    margin-top: 50px;
+    right: 450px;
+    z-index: -1;
+     width: 500px ;
+    height: 500px;
+  }
+  .img-2 {
+    padding-top: 1px;
+    width: 350px;
+    
+  }
+  
+  .text-efm {
+    text-align: center;
+    margin-top: 200px;
+  }
+  /* none */
+  .icon-item {
+    margin: 31px 127px;
+    color: #3aa832;
+  }
+  
+  .img-ban {
+    float: right;
+    width: 50%;
+  }
+  .btuo {
+    margin-left: 200px;
+  }
+  .final-signup {
+    padding-top: 65px;
+    padding-left: 65px;
+    background: linear-gradient(to right, #33cc33 60%, #66ff66 100%);
+    border-radius: 5px;
+    color: whitesmoke;
+  }
+  .footer-container {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #3aa832;
+    padding: 30px;
+  }
+  .text-start{
+    padding-left: 50px;
+  }
+  .contact-text{
+  font-size: 35px;
+  color: #3aa832;
+  }
+  .btn-success{
+    border-radius: 25px;
+    color: whitesmoke;
+    width: 190px;
+    height: 50px;
+    background-color: #3aa832;  
+  } 
+  
